@@ -1,7 +1,8 @@
-package com.example.roomdatabse
+package com.example.roomdatabse.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.roomdatabse.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
